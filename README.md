@@ -4,7 +4,7 @@
 
 Проекты еще добавляю.
 
-# 01.Bank [01.Bank](https://github.com/Templl/YandexDataAnalyst/tree/main/01.Bank)
+# [01.Bank](https://github.com/Templl/YandexDataAnalyst/tree/main/01.Bank)
 На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок  
 В проекте были использованы навыки и инструменты: предобработка данных, Python, Pandas, PyMystem3, лемматизация
 
