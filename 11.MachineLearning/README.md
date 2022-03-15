@@ -21,17 +21,17 @@ Python, Pandas, Scikit-learn, Matplotlib, Seaborn, машинное обучен
 
 Метрики для модели логистической регрессии:
 - Accuracy: 0.94
-Precision: 0.90
-Recall: 0.85
-F1: 0.87
-ROC_AUC: 0.98
+- Precision: 0.90
+- Recall: 0.85
+- F1: 0.87
+- ROC_AUC: 0.98
 
 Метрики для модели случайный лес:
-Accuracy: 0.93
-Precision: 0.90
-Recall: 0.83
-F1: 0.86
-ROC_AUC: 0.97
+- Accuracy: 0.93
+- Precision: 0.90
+- Recall: 0.83
+- F1: 0.86
+- ROC_AUC: 0.97
 
 Из представленных моделей логистическая регрессия лучше прогнозирует чем случайный лес.
 
